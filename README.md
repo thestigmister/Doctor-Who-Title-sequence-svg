@@ -8,3 +8,4 @@ If you want to edit and then compile the hs code files then you need to install 
 The SVG file can be open in a browser to see the animation. Just download it and open it.
 
 ![Screenshot](animation_thumbnail.png)
+![SVG file](animation.svg)
