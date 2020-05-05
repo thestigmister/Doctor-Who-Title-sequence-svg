@@ -19,6 +19,7 @@ module Animation (
     -- ** Simple shapes
     rect, ellipse, circle, polygon,
     -- ** Modifying animations
+    -- *** Interiors of shapes
     withoutPaint, withPaint, withGenPaint,
     -- *** Borders of shapes
     withoutBorder, withBorder, withGenBorder,
